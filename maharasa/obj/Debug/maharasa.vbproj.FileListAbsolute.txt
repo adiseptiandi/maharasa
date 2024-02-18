@@ -1,0 +1,55 @@
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\dbtransaksi.accdb
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\maharasa.exe.config
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\maharasa.exe
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\maharasa.pdb
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\maharasa.xml
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.vbproj.AssemblyReference.cache
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.Form1.resources
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.Form2.resources
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.Resources.resources
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.vbproj.GenerateResource.cache
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.vbproj.CoreCompileInputs.cache
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.exe
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.xml
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.pdb
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.Form3.resources
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Adi\source\repos\maharasa\maharasa\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Adi\source\repos\maharasa\maharasa\obj\Debug\maharasa.vbproj.CopyComplete
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\bin\Debug\maharasa.exe.config
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\bin\Debug\maharasa.exe
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\bin\Debug\maharasa.pdb
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\bin\Debug\maharasa.xml
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.vbproj.AssemblyReference.cache
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.Form1.resources
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.Form2.resources
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.Form3.resources
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.Resources.resources
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.vbproj.GenerateResource.cache
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.vbproj.CoreCompileInputs.cache
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.vbproj.CopyComplete
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.exe
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.xml
+C:\Users\Adi\source\repos\maharasa - Copy\maharasa\obj\Debug\maharasa.pdb
+C:\Users\Adi\source\repos\maharasaAman\maharasa\bin\Debug\maharasa.exe.config
+C:\Users\Adi\source\repos\maharasaAman\maharasa\bin\Debug\maharasa.exe
+C:\Users\Adi\source\repos\maharasaAman\maharasa\bin\Debug\maharasa.pdb
+C:\Users\Adi\source\repos\maharasaAman\maharasa\bin\Debug\maharasa.xml
+C:\Users\Adi\source\repos\maharasaAman\maharasa\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Adi\source\repos\maharasaAman\maharasa\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.vbproj.AssemblyReference.cache
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.Form1.resources
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.Form2.resources
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.Form3.resources
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.Resources.resources
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.vbproj.GenerateResource.cache
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.vbproj.CoreCompileInputs.cache
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.vbproj.CopyComplete
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.exe
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.xml
+C:\Users\Adi\source\repos\maharasaAman\maharasa\obj\Debug\maharasa.pdb
